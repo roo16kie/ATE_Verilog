@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Nov 07 15:17:44 2018
+Quartus II Version : 10.0 Build 262 08/18/2010 SP 1 SJ Full Version
+Revision Name : ate
+Top-level Entity Name : ate
+Family : Cyclone II
+Device : EP2C70F896C8
+Timing Models : Final
+Total logic elements : 771 / 68,416 ( 1 % )
+    Total combinational functions : 771 / 68,416 ( 1 % )
+    Dedicated logic registers : 612 / 68,416 ( < 1 % )
+Total registers : 612
+Total pins : 19 / 622 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,152,000 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 300 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
